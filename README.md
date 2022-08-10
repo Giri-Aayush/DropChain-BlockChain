@@ -1,5 +1,5 @@
 
-# DROPBOX - Clone BlockChain
+# DROPCHAIN - BlockChain
 
 This project is a decentralized dropbox clone that runs in the blockchain and the interplanetary file system IPFS. This will allow us to upload files decentralized and share them with others in a trustless, censorship-resistant fashion. Let’s look at how this application will work, so here's a quick diagram of how a traditional web application would work. 
 
